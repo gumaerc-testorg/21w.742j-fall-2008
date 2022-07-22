@@ -6,6 +6,7 @@ file: /courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u201CUno, Dos, Tres\u2026\u201D I began"
 uid: 11683880-f498-8696-89e8-0522899eab0c
 ---
 This resource contains the information regarding “Uno, Dos, Tres…” I began.
-

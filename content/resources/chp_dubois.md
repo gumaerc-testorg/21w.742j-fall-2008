@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: W. E. B. DuBois
 uid: 57c4f66b-a2d0-6c8b-fecf-b2845588a491
 ---
 W. E. B. DuBois. (Image courtesy of Library of Congress.)
-

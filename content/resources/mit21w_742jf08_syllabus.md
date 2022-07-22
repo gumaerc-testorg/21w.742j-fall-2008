@@ -4,6 +4,7 @@ description: This resource contains the information regarding Syllabus.
 file: /courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/fade9cbcfc0afe95feb9fd8c881c261a_MIT21W_742JF08_syllabus.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Syllabus
 uid: fade9cbc-fc0a-fe95-feb9-fd8c881c261a
 ---
 This resource contains the information regarding Syllabus.
-
