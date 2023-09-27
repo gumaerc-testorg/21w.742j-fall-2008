@@ -36,7 +36,7 @@ You will receive individual grades for the two essays. Your final grade will be 
 Texts and Films
 ---------------
 
-Please see the [readings]({{< baseurl >}}/pages/readings) section for a detailed list of the Texts and Films used in this course.
+Please see the {{% resource_link 17028d0f-f242-eaa8-1399-fa67e59bad67 "readings" %}} section for a detailed list of the Texts and Films used in this course.
 
 Calendar
 --------

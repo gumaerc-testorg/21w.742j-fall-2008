@@ -114,7 +114,7 @@ ASSIGNMENTS
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-A quantified relationship ([PDF]({{< baseurl >}}/resources/mit21w_742jf08_a_qntfd))
+A quantified relationship ({{% resource_link 11683880-f498-8696-89e8-0522899eab0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
