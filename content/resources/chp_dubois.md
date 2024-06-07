@@ -2,6 +2,7 @@
 content_type: resource
 description: W. E. B. DuBois. (Image courtesy of Library of Congress.)
 file: /courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/57c4f66ba2d06c8bfecfb2845588a491_chp_dubois.jpg
+file_size: 15277
 file_type: image/jpeg
 image_metadata:
   caption: ''
