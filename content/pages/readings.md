@@ -50,12 +50,12 @@ Zack, Naomi. "American Mixed Race: The United States 2000 Census and Related Iss
 Films
 -----
 
-{{% resource_link "a8ac0f42-9973-4efe-893d-b74e5f8a53e5" "_Banana Split_" %}}. Directed by Kip Fulbeck, 1990.
+[_Banana Split_](http://caamedia.org/films/banana-split/). Directed by Kip Fulbeck, 1990.
 
-{{% resource_link "680fd7af-60cf-439b-83ef-f8cd3c44b756" "_A Beautiful Blend_" %}}. Directed by David Hosley, 2004.
+[_A Beautiful Blend_](http://caamedia.org/films/beautiful-blend/). Directed by David Hosley, 2004.
 
-{{% resource_link "0c9d5a00-ba46-4bb3-80c0-8fc1e68647ac" "_The Body Beautiful_" %}}. Directed by Ngozi Onwurah, 1991.
+[_The Body Beautiful_](http://www.imdb.com/title/tt0180563/). Directed by Ngozi Onwurah, 1991.
 
-{{% resource_link "8c73f5b4-d1fc-4a89-b4d6-cdcc0f97359b" "_Halving The Bones_" %}}. Directed by Ruth Ozeki Lounsbury, 1996.
+[_Halving The Bones_](http://www.imdb.com/title/tt0116475/). Directed by Ruth Ozeki Lounsbury, 1996.
 
-{{% resource_link "bf1187c7-b7ca-4f22-993c-5954ed710d28" "_Hapa_" %}}. Directed by Midori Sperandeo, 2001.
+[_Hapa_](http://caamedia.org/films/hapa/). Directed by Midori Sperandeo, 2001.
